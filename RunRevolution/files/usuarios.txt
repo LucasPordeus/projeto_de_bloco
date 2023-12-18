@@ -1,0 +1,2 @@
+Lucas;lucas.campos;senha123;admin
+Gabriel;gabriel.oliveira;senha456;user
